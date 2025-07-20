@@ -29,7 +29,9 @@ income (binary classification: >50K or <=50K)
 * Streamlit – Web application framework
 * Matplotlib & Seaborn – Data visualization
 
- 
+ ##  Screenshots
+
+
 # Methodology
 1.Data Cleaning & Preprocessing
 * Handle missing values and inconsistent labels
@@ -108,11 +110,7 @@ age,workclass,education,marital-status,occupation,relationship,race,sex,hours-pe
 
 ---
 
-##  Screenshots
-
-
-
 ## Author
 **Aman Kumar Singh**  
-🔗 [LinkedIn](https://www.linkedin.com/in/aman-kumar-singh-71a090206)  
-📧 aksingh1652@gmail.com
+www.linkedin.com/in/aman-kumar-singh-71a090206
+aksingh1652@gmail.com
