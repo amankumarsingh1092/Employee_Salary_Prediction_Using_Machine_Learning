@@ -1,28 +1,29 @@
 # IBM Edunet Foundation Internship
 # Employee_Salary_Prediction_Using_Machine_Learning
 ![maxresdefault](https://github.com/user-attachments/assets/889722b0-177e-406d-bb7b-5cfdc6e0f24e)
+
 The Income Classification App is a user-friendly web application built using Streamlit that predicts whether an individual's income exceeds $50K per year based on demographic and employment attributes. It utilizes a trained machine learning classification model and supports both single-entry predictions via form inputs and batch predictions through CSV uploads.
 
 This project demonstrates practical skills in data preprocessing, model training, and real-time deployment using Python libraries such as pandas, scikit-learn, and joblib. It's a compact example of end-to-end machine learning application deployment with an interactive UI.
 
 
-# 💰 Income Classification App
+# Income Classification App
 
 A **Streamlit** web application that predicts whether a person earns **>50K or ≤50K** annually based on demographic and employment attributes. The app uses a pre-trained machine learning classification model and supports both real-time input predictions and batch predictions via CSV file upload.
 
 ---
 
-## 📌 Features
+## Features
 
-- 🎯 Predict whether income is >50K or ≤50K
-- 📥 Input features manually or upload a CSV for batch prediction
-- 📊 Real-time predictions with interactive visual UI
-- ⚙️ Built with `Streamlit`, `scikit-learn`, `pandas`, and `joblib`
-- 💻 Easily deployable and customizable for other classification use-cases
+-  Predict whether income is >50K or ≤50K
+-  Input features manually or upload a CSV for batch prediction
+-  Real-time predictions with interactive visual UI
+-  Built with `Streamlit`, `scikit-learn`, `pandas`, and `joblib`
+-  Easily deployable and customizable for other classification use-cases
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -45,13 +46,7 @@ streamlit run app.py
 
 ---
 
-## 🧠 Model Overview
-
-The machine learning model is trained on the **UCI Adult Income dataset**, which contains census information. The model uses features such as age, education, occupation, and hours-per-week to predict income category. You can replace the model with your own by retraining and saving it as `income_classifier.pkl`.
-
----
-
-## 📁 File Structure
+##  File Structure
 
 - `app.py` - Main Streamlit application script
 - `income_classifier.pkl` - Trained ML model (not included)
@@ -60,7 +55,7 @@ The machine learning model is trained on the **UCI Adult Income dataset**, which
 
 ---
 
-## 📂 Example CSV Format
+##  Example CSV Format
 
 To use batch predictions, upload a CSV with the following column structure:
 
@@ -72,35 +67,11 @@ age,workclass,education,marital-status,occupation,relationship,race,sex,hours-pe
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
-<details>
-<summary>Click to view</summary>
 
-**Sidebar Input Interface**  
-![Single Prediction](screenshots/single_prediction.png)
 
-**Batch Upload and Prediction Output**  
-![Batch Prediction](screenshots/batch_prediction.png)
-
-</details>
-
----
-
-## 💡 About the Project
-
-This is a practical machine learning deployment project demonstrating an end-to-end workflow: from training and saving a model to building an interactive web UI for prediction using Streamlit. It includes both **single-record predictions** and **batch CSV uploads**.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## ✍️ Author
-
+## Author
 **Aman Kumar Singh**  
 🔗 [LinkedIn](https://www.linkedin.com/in/aman-kumar-singh-71a090206)  
 📧 aksingh1652@gmail.com
