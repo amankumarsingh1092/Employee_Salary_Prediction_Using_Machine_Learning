@@ -111,6 +111,6 @@ age,workclass,education,marital-status,occupation,relationship,race,sex,hours-pe
 ---
 
 ## Author
-**Aman Kumar Singh**  
-www.linkedin.com/in/aman-kumar-singh-71a090206
-aksingh1652@gmail.com
+* Aman Kumar Singh
+* www.linkedin.com/in/aman-kumar-singh-71a090206
+* aksingh1652@gmail.com
