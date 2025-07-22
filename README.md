@@ -30,7 +30,7 @@ income (binary classification: >50K or <=50K)
 * Matplotlib & Seaborn – Data visualization
 
  # Results Screenshots
-<img width="849" height="645" alt="image" src="https://github.com/user-attachments/assets/c160e957-8eae-412b-8e54-0826a8061058" />
+<img width="649" height="445" alt="image" src="https://github.com/user-attachments/assets/c160e957-8eae-412b-8e54-0826a8061058" />
 <img width="920" height="708" alt="image" src="https://github.com/user-attachments/assets/21486ac8-7857-4e51-b2ac-533ac1d31afb" />
 <img width="906" height="707" alt="image" src="https://github.com/user-attachments/assets/7a7d40b2-ca42-496f-8113-3379445fc25b" />
 <img width="921" height="707" alt="image" src="https://github.com/user-attachments/assets/deffcd55-df66-44d6-b07b-fe3a60961b3c" />
