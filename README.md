@@ -30,15 +30,15 @@ income (binary classification: >50K or <=50K)
 * Matplotlib & Seaborn – Data visualization
 
  # Results Screenshots
-<img width="649" height="445" alt="image" src="https://github.com/user-attachments/assets/c160e957-8eae-412b-8e54-0826a8061058" />
-<img width="920" height="708" alt="image" src="https://github.com/user-attachments/assets/21486ac8-7857-4e51-b2ac-533ac1d31afb" />
-<img width="906" height="707" alt="image" src="https://github.com/user-attachments/assets/7a7d40b2-ca42-496f-8113-3379445fc25b" />
-<img width="921" height="707" alt="image" src="https://github.com/user-attachments/assets/deffcd55-df66-44d6-b07b-fe3a60961b3c" />
-<img width="840" height="667" alt="image" src="https://github.com/user-attachments/assets/935ba187-86bb-4dae-b522-ad29a2b7b5b4" />
-<img width="1095" height="975" alt="image" src="https://github.com/user-attachments/assets/49991ad7-bf88-4a4a-a79f-9eb2bb66de4c" />
-<img width="1091" height="762" alt="image" src="https://github.com/user-attachments/assets/2e931717-09e7-4c49-bd29-63494a8838b9" />
-<img width="1023" height="247" alt="image" src="https://github.com/user-attachments/assets/c5bdb858-19b5-4b9e-ac3f-d536b06b12e8" />
-<img width="1546" height="783" alt="image" src="https://github.com/user-attachments/assets/b71cdf6a-423b-43b2-a93f-2524e2a84d7d" />
+<img width="449" height="245" alt="image" src="https://github.com/user-attachments/assets/c160e957-8eae-412b-8e54-0826a8061058" />
+<img width="420" height="208" alt="image" src="https://github.com/user-attachments/assets/21486ac8-7857-4e51-b2ac-533ac1d31afb" />
+<img width="406" height="207" alt="image" src="https://github.com/user-attachments/assets/7a7d40b2-ca42-496f-8113-3379445fc25b" />
+<img width="421" height="207" alt="image" src="https://github.com/user-attachments/assets/deffcd55-df66-44d6-b07b-fe3a60961b3c" />
+<img width="440" height="267" alt="image" src="https://github.com/user-attachments/assets/935ba187-86bb-4dae-b522-ad29a2b7b5b4" />
+<img width="695" height="575" alt="image" src="https://github.com/user-attachments/assets/49991ad7-bf88-4a4a-a79f-9eb2bb66de4c" />
+<img width="691" height="562" alt="image" src="https://github.com/user-attachments/assets/2e931717-09e7-4c49-bd29-63494a8838b9" />
+<img width="623" height="547" alt="image" src="https://github.com/user-attachments/assets/c5bdb858-19b5-4b9e-ac3f-d536b06b12e8" />
+<img width="1146" height="583" alt="image" src="https://github.com/user-attachments/assets/b71cdf6a-423b-43b2-a93f-2524e2a84d7d" />
 
 
 # Methodology
